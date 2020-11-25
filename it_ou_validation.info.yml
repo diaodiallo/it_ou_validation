@@ -1,0 +1,5 @@
+name: IT and Organisation Unit Validation
+type: module
+description: This module link an impact team to an organisation unit
+core: 8.x
+package: IT
